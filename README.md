@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Viatcheslav-Malahov
-- 👀 I’m interested in JS development
-- 📫 How to reach me 
+<h2>My personal GitHub page for pet and study projects</h2>
+
+  Here i store my pet and study work
+<h2>📫 How to reach me</h2>
+<br>
 https://www.instagram.com/malahov_slava/
-https://vk.com/viatcheslavmalahov
+<br>
+https://t.me/malahov_slava
+<br>
 viatcheslavmalahov@gmail.com
   
 
