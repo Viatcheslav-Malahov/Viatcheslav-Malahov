@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Viatcheslav-Malahov
 - 👀 I’m interested in JS development
-- 🌱 I’m currently learning VueJS
-- 💞️ I’m looking to collaborate on VueJS
 - 📫 How to reach me 
 https://www.instagram.com/malahov_slava/
 https://vk.com/viatcheslavmalahov
