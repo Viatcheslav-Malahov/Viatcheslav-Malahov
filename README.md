@@ -4,7 +4,6 @@
 <h2>📫 How to reach me</h2>
 https://t.me/malahov_slava
 <br/>
-<br>
 https://www.instagram.com/malahov_slava/
 <br/>
 https://hh.ru/resume/f9764bf0ff0882e8620039ed1f6a3539747262
