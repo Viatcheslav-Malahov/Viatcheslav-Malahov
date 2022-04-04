@@ -9,6 +9,8 @@ https://www.instagram.com/malahov_slava/
 https://hh.ru/resume/f9764bf0ff0882e8620039ed1f6a3539747262
 <br/>
 viatcheslavmalahov@gmail.com
+<br/>
+https://github.com/Viatcheslav-Malahov/CV - my actual CV
   
 
 <!---
